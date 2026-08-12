@@ -1,0 +1,6 @@
+{
+  "name": "Ashish Mandap & Lighting Decoration",
+  "description": "Booking management web application for Ashish Mandap & Lighting Decoration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
